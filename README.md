@@ -2,8 +2,9 @@
 <h4 align="center"> Status: 🚀 Finished </h4>
 
 <p align="center">
-  <img src="https://github.com/bruno-deoliveira/focus-timer-2.0/assets/109918729/9df54926-4dab-491b-a5d4-8dd8180fd169"
+  <img src="https://github.com/bruno-deoliveira/github-favorites/assets/109918729/7dddc0d9-2d80-4bfb-a2c0-7801910882e9"
 </p>
+
 
 ## 💻 Projeto
 Este repositório contém um projeto chamado "Github Favorites". É uma aplicação web simples que permite aos usuários pesquisar por usuários do GitHub e exibir informações sobre eles, como repositórios e seguidores.
